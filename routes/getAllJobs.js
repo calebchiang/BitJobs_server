@@ -1,0 +1,1 @@
+// Return all the job listings in the database
